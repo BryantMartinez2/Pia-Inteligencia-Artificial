@@ -1,0 +1,12 @@
+# Entornos virtuales de Python
+venv/
+env/
+entorno_ia
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Archivos basura del sistema operativo
+.DS_Store
+Thumbs.db
